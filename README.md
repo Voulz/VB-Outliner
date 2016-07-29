@@ -27,6 +27,6 @@ I didn't know how to change the Default Outlining, so I created a new Outlining 
 
 ## License
 
-VB Outliner is licensed under the GNU GENERAL PUBLIC LICENSE V3 - the details are in the file [GitHub](/LICENSE.md "License.md")  
+VB Outliner is licensed under the GNU GENERAL PUBLIC LICENSE V3 - the details are in the file [License.md](/LICENSE.md "License.md")  
 The goal is to make everyone learn from any possible improvements by sharing it back to the community.  
 Thank you.
