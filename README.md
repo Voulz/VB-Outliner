@@ -7,7 +7,7 @@ Brings back Color Coding in the Outlining for VB.NET
 I've been missing this feature since VS2008 I think, so I decided to make something.  
 It is my first Extension for Visual Studio. It was originally programmed for VS2013, but I adapted it to 2015.  
   
-This project is in **BETA** and some elements doesn't work properly, but I already use it in my workflow.  
+This project is in **BETA** and some elements doesn't work properly, even if I already use it in my workflow.  
 **PLEASE CONTINUOUSLY SAVE YOUR WORK IF YOU USE THIS EXTENSION, IT MIGHT UNEXPECTEDLY CRASH**  
   
 *`I do not intend to develop this project further, as my knowledge in VS Extensions is really limited.  
