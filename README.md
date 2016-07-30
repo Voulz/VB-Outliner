@@ -1,5 +1,6 @@
-# VB-Outliner
-Brings back Color Coding in the Outlining for VB.NET
+# VB Outliner
+Brings back Color Coding in the Outlining for VB.NET  
+[Also on Visual Studio Gallery](https://visualstudiogallery.msdn.microsoft.com/849848ac-ea59-4815-9892-24e6f7deae57)
 
 ![Brings back Color Coding in the Outlining for VB.NET](/VB Outliner/VB Outliner.jpg?raw=true "Brings back Color Coding in the Outlining for VB.NET")
 
@@ -14,7 +15,8 @@ This project is in **BETA** and some elements doesn't work properly, even if I a
 Feel free to propose updates to make it better for everyone.`*
 
 ## Informations
-I didn't know how to change the Default Outlining, so I created a new Outlining on top of the existing one.
+I didn't know how to change the Default Outlining, so I created a new Outlining on top of the existing one.  
+There might be better options.
 
 ## Known Issues
 * Visual Studio might crash in unexpected cases. I added a lot of Try Catch, but it might still happen.
