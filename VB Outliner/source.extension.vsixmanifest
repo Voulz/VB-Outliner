@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="fa9192be-579d-49e1-8aa6-63f610077108" Version="0.2.0007" Language="en-US" Publisher="Voulz" />
-    <DisplayName>VB Advanced Outlining</DisplayName>
+    <Identity Id="fa9192be-579d-49e1-8aa6-63f610077108" Version="0.2.0008" Language="en-US" Publisher="Voulz" />
+    <DisplayName>VB Outliner</DisplayName>
     <Description xml:space="preserve">Create a more detailed Outlining for collapsed text, maling it more readable</Description>
     <License>License.rtf</License>
     <ReleaseNotes>Beta Version</ReleaseNotes>
