@@ -2,7 +2,7 @@
 Brings back Color Coding in the Outlining for VB.NET  
 [Also on Visual Studio Gallery](https://visualstudiogallery.msdn.microsoft.com/849848ac-ea59-4815-9892-24e6f7deae57)
 
-![Brings back Color Coding in the Outlining for VB.NET](/VB Outliner/VB Outliner.jpg?raw=true "Brings back Color Coding in the Outlining for VB.NET")
+![Brings back Color Coding in the Outlining for VB.NET](VB%20Outliner/VB%20Outliner.jpg "Brings back Color Coding in the Outlining for VB.NET")
 
 ## Disclaimer
 I've been missing this feature since VS2008 I think, so I decided to make something.  
