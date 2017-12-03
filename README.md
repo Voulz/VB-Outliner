@@ -1,5 +1,7 @@
 # VB Outliner
-Brings back Color Coding in the Outlining for VB.NET  
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W3JMUBMSWUKNY)
+
+Brings back Color Coding in the Outlining for VB.NET
 [Also on Visual Studio Gallery](https://visualstudiogallery.msdn.microsoft.com/849848ac-ea59-4815-9892-24e6f7deae57)
 
 ![Brings back Color Coding in the Outlining for VB.NET](VB%20Outliner/VB%20Outliner.jpg "Brings back Color Coding in the Outlining for VB.NET")
